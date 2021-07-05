@@ -1,0 +1,1 @@
+# sum-of-all-element-in-given-array
